@@ -1,0 +1,3 @@
+name,linkedin_url,instagram_url,verification
+# One row per person. Both links must be theirs; Instagram must be public.
+# verification = how you confirmed the IG belongs to them, e.g. "ig bio links linkedin", "consented", "same name+photo"
